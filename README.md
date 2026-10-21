@@ -21,6 +21,7 @@ The analysis covers 10 Walmart stores and 3 product categories using 60 days of 
 5. Exported the cleaned dataset for Power BI.
 
 ## Dashboard
+![Power BI Dashboard](report.png)
 The dashboard includes:
 - Total Revenue
 - Total Units Sold
